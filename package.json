@@ -7,12 +7,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VHGC1/Next-Level-Weak.git"
+    "url": "git+https://github.com/VHGC1/Next-Level-Week.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VHGC1/Next-Level-Weak/issues"
+    "url": "https://github.com/VHGC1/Next-Level-Week/issues"
   },
   "homepage": "https://github.com/VHGC1/Next-Level-Week#readme",
   "dependencies": {
