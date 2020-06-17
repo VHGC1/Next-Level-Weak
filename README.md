@@ -28,5 +28,5 @@
 
 <h2>
 <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
-<p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/VHGC1/Next-Level-Week/blob/master/LICENSE">LICENSE</a> para mais detalhes.</p>
 </h2>
+<p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/VHGC1/Next-Level-Week/blob/master/LICENSE">LICENSE</a> para mais detalhes.</p>
